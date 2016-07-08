@@ -79,107 +79,147 @@
     </div>
     
     <div class="container index"> 
-      <div class="row">
+      <div class="row pros">
         <div class="col-md-12">
-          <h1>Почему CHEMetrics?</h1>
+          <h1 class="index-header">Почему CHEMetrics?</h1>
         </div>
-      </div>
-      <div class="row">
         <div class="col-md-6">
-          <h2>Простота и порядок</h2>
+          <h2 class="index-subheader">Простота и порядок</h2>
           <p>Обычные методы анализа воды сложны, требуют пробоподготовки и реагентов. Для получения надежного результата с CHEMetrics достато просто опустить ампулу в исследуемый образец и сломать ее кончик.</p>
         </div>
         <div class="col-md-6">
-          <h2>Минимум ошибок</h2>
+          <h2 class="index-subheader">Минимум ошибок</h2>
           <p>Так как стадия пробоподготовки исключается, влияние человеческого фактора снижается практически до минимума, а герметично упакованные ампулы позволят избежать ошибок из-за просроченных или некачественных реагентов.</p>
-       </div>
-      </div>
-      <div class="row">
+        </div>      
         <div class="col-md-6">
-          <h2>Безопасность</h2>
+          <h2 class="index-subheader">Безопасность</h2>
           <p>Самозаполняемые ампулы CHEMetrics содержат единичную дозу подготовленного реагента, поэтому непосредственный контакт с химическими веществами практически отсутствует.</p>
         </div>
         <div class="col-md-6">
-          <h2>Все включено</h2>
+          <h2 class="index-subheader">Все включено</h2>
           <p>В комплект поставки входит все необходимое для проведения 30 экспресс-тестов. Наборы CHEMetrics компактные и портативные&nbsp;&mdash; их легко использовать как в лаборатории, так и в полевых условиях</p>
         </div>
-      </div>
-      <div class="row">
         <div class="col-md-6">
-          <h2>Длительный срок хранения</h2>
+          <h2 class="index-subheader">Длительный срок хранения</h2>
           <p>Комплекты CHEMetrics для экспресс-анализа воды в вакуумной упаковке хранятся при комнатной температуре, в защищенном от света месте 2 года (если явно не указано иное)</p>
         </div>
         <div class="col-md-6">
-          <h2>Опыт и квалификация</h2>
+          <h2 class="index-subheader">Опыт и квалификация</h2>
           <p>Наша компания обладает колоссальным опытом в области решений для экспресс-анализа воды. По любым вопросам, связанным с продуктами и решениями CHEMetrics,  обращайтесь в <a href="/contact.php">наши офисы.</a></p>
         </div>
-      </div> 
-      <hr>
+      </div>
+      <div class="row reference">
+        <div class="col-md-12"><h2>Клиенты CHEMetrics в России</h2></div>
+        <div class="col-md-2"><img src="/img/nestle.png" alt="Nestle" class="img-responsive ref-logo"></div>
+        <div class="col-md-2"><img src="/img/tetrapack.png" alt="Nestle" class="img-responsive ref-logo"></div>
+        <div class="col-md-2"><img src="/img/total.png" alt="Nestle" class="img-responsive ref-logo"></div>
+        <div class="col-md-2"><img src="/img/wbd.png" alt="Nestle" class="img-responsive ref-logo"></div>
+        <div class="col-md-2"><img src="/img/nestle.png" alt="Nestle" class="img-responsive ref-logo"></div>
+        <div class="col-md-2"><img src="/img/nestle.png" alt="Nestle" class="img-responsive ref-logo"></div>
+      </div>
       <div class="row">
         <div class="col-md-12">
-          <h1>Где применяется экспресс-анализ воды?</h1>
-        </div>
-      </div> 
-      <div class="row">
-        <div class="col-md-6">
-          <div align="center"><img src="/img/wine.jpg" class="img-responsive img-circle polaroid"></div>
-          <h2>Производство продуктов питания и напитков</h2>
-          <p>Предприятия по производству бутилированной воды, пивоварни, производители газированных напитков проводят экспресс-анализ производственной воды. При асептической упаковке напитков тест-наборы CHEMetrics используются для определения концентрации <a href="/analytes.php?id=hydrogen">перекиси водорода</a>.   Для контроля сточных вод используются <a href="/analytes.php?id=cod">ХПК ампулы</a>. Метод CHEMetrics для определения минимальной концентрации <a href="/analytes.php?id=ozone">озона</a> в бутилированной воде был одобрен для использования крупнейшими мировыми производителями безалкогольных напитков.</p>
-        </div>
-        <div class="col-md-6">          
-          <div align="center"><img src="/img/powerplant.jpg" class="img-responsive img-circle polaroid"></div>          
-          <h2>Энергетика</h2>
-          <p>Тест-наборы CHEMetrics применяются для контроля отложений примесей и коррозионных элементов в воде, для мониторинга биоцидов и ингибиторов коррозии, а также для <a href="/analytes.php?id=oxygen">определения растворенного кислорода (в ppb)</a>.</p>
-          <p style="margin-top:25px;"></p>
-        </div>
-      </div>
-      <hr style="margin:15px 0;">
-      <div class="row">
-       <div class="col-md-6">
-          <div align="center"><img src="/img/leaves.jpg" class="img-responsive img-circle polaroid"></div>
-          <h2>Охрана окружающей среды</h2>
-          <p>Тест-наборы CHEMetrics используются для контроля за загрязнением промышленных сточных вод, мониторинга подземных вод, <a href="analytes.php?id=tph">определения загрязнений почвы нефтяными углеводородами</a>, мониторинга поверхностных вод для биогенного стока.</p>
+          <h1 class="index-header">Где применяется экспресс-анализ воды?</h1>
         </div>
         <div class="col-md-6">
-          <div align="center"><img src="/img/water.jpg" class="img-responsive img-circle polaroid"></div>
-          <h2>Сточные воды</h2>
-          <p>Тест-наборы CHEMetrics применяются для экспресс-анализа воды на очистных сооружениях, на станциях подготовки питьевой воды для определения остаточных дезинфицирующих средств. А также для экспресс-анализа отработанных вод, котловой воды, охлаждающей воды. </p>
-        </div>
-      </div>
-      <hr style="margin:15px 0;">
-      <div class="row">
-       <div class="col-md-6">
-          <div align="center"><img src="/img/wastewater.jpg" class="img-responsive img-circle polaroid"></div>
-          <h2>Водоподготовка</h2>
-          <p>Продукция CHEMetrics применима для экспресс-анализов питьевой воды и сточных вод на очистных станциях. Очистные станции контролируют сточную воду, поступающую на очистку, в отстойных резервуарах и очищенную сточную воду. При использовании датчиков, производящих анализ в реальном времени, тест-наборы CHEMetrics используются для подтверждения результатов, при устранении неполадок и в периоды простоя.</p>
+          <div class="media index-media">
+            <div class="media-left branch-icon">
+              <img class="media-object" src="/img/wine.jpg">
+            </div>
+            <div class="media-body">
+              <h3>Производство продуктов питания и напитков</h3>
+              <p>Производители безалкогольных напитков и пива проводят экспресс-анализ производственной воды. При асептической упаковке напитков тест-наборы CHEMetrics используются для определения концентрации <a href="/analytes.php?id=hydrogen">перекиси водорода</a>. Для контроля сточных вод используются <a href="/analytes.php?id=cod">ХПК ампулы</a>. Метод CHEMetrics для определения минимальной концентрации <a href="/analytes.php?id=ozone">озона</a> в бутилированной воде был одобрен для использования крупнейшими мировыми производителями.</p>    
+            </div>
+          </div>
         </div>
         <div class="col-md-6">
-          <div align="center"><img src="/img/plant.jpg" class="img-responsive img-circle polaroid"></div>
-          <h2>Горнорудное дело и промышленное производство</h2>
-          <p>Тест-наборы CHEMetrics могут использоваться на промышленных и горнодобывающих предприятиях для определения содержания металлов, <a href="/analytes.php?id=ph">определения pH</a>.
-           Мы можем оснастить лаборатории или персонал, работающий в полевых условиях и на производственных площадках, точными, простыми и надежными тестами для исследований загрязнений сточной воды, поступающей на очистку, и очищенных сточных вод.</p>
-        </div>
-      </div>
-      <hr style="margin:15px 0;">
-      <div class="row">
-       <div class="col-md-6">
-          <div align="center"><img src="/img/lab.jpg" class="img-responsive img-circle polaroid"></div>
-          <h2>Медицина</h2>
-          <p>В медицинских учреждениях и лабораториях тест-наборы для экспресс-анализа воды CHEMetrics используются для проверки санитарной обработки и контроля остаточных <a href="/analytes.php?id=detergents">моющих веществ</a>, а также для определения низкого уровня загрязнений. Тест-набор для определения <a href="/analytes.php?id=detergents">моющих веществ</a> используется для мониторинга эффективности очистки технологического оборудования, используемого в научных исследованиях и оценки опытных образцов.</p>
+          <div class="media index-media">
+            <div class="media-left branch-icon">
+              <img class="media-object" src="/img/wastewater.jpg">
+            </div>
+            <div class="media-body">
+              <h3>Водоподготовка</h3>
+              <p>Тест-наборы CHEMetrics применяются для экспресс-анализов питьевой воды, а также сточных вод на очистных станциях. На очистных станциях в отстойных резервуарах проводится мероприятия по контролю сточной воды, поступающей на очистку. Также проводятся анализы очищенной сточной воды. При использовании датчиков, производящих анализ в реальном времени, тест-наборы CHEMetrics используются для подтверждения результатов, при устранении неполадок и в периоды простоя.</p>    
+            </div>
+          </div>
         </div>
         <div class="col-md-6">
-          <div align="center"><img src="/img/pulp_n_paper.jpg" class="img-responsive img-circle polaroid"></div>
-          <h2>Целлюлозно-бумажная промышленность</h2>
-          <p>В целлюлозно-бумажной промышленности продукция CHEMetrics применяется для экспресс-анализа котловой и охлаждающей воды, сточных вод и очищенных сточных вод. Также тест-наборы используются при таких технологических процессах как отбеливание, обработка целлюлозы и содорегенерация.</p>
+          <div class="media index-media">
+            <div class="media-left branch-icon">
+              <img class="media-object" src="/img/leaves.jpg">
+            </div>
+            <div class="media-body">
+              <h3>Охрана окружающей среды</h3>
+              <p>Тест-наборы CHEMetrics используются для контроля за загрязнением промышленных сточных вод, мониторинга подземных вод, <a href="analytes.php?id=tph">определения загрязнений почвы нефтяными углеводородами</a>, мониторинга поверхностных вод для биогенного стока.</p>   
+            </div>
+          </div>
         </div>
-      </div>
-      <hr style="margin:15px 0;">
-      <div class="row">
         <div class="col-md-6">
-          <div align="center"><img src="/img/pump.jpg" class="img-responsive img-circle polaroid"></div>
-          <h2>Нефтехимия</h2>
-          <p>На нефтеперерабатывающих и химических заводах продукция CHEMetrics используется для анализа сточных вод, поступающих на очистку, отработанных вод, очищенных сточных вод как в лабораторных, так и в полевых условиях. Утечку в подземных баках-накопителях можно определить с помощью тест-набора CHEMetrics на общее количество <a href="analytes.php?id=tph">нефтяных углеводородов в почве</a></p>          
-        </div>        
+          <div class="media index-media">
+            <div class="media-left branch-icon">
+              <img class="media-object" src="/img/water.jpg">
+            </div>
+            <div class="media-body">
+              <h3>Сточные воды</h3>
+              <p>Тест-наборы CHEMetrics применяются для экспресс-анализа воды на очистных сооружениях, на станциях подготовки питьевой воды для определения остаточных дезинфицирующих средств. А также для экспресс-анализа отработанных вод, котловой воды, охлаждающей воды. </p>    
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="media index-media">
+            <div class="media-left branch-icon">
+              <img class="media-object" src="/img/pump.jpg">
+            </div>
+            <div class="media-body">
+              <h3>Нефтехимия</h3>
+              <p>На нефтеперерабатывающих и химических заводах продукция CHEMetrics используется для анализа сточных вод, поступающих на очистку, отработанных вод, очищенных сточных вод как в лабораторных, так и в полевых условиях. Утечку в подземных баках-накопителях можно определить с помощью тест-набора CHEMetrics на общее количество <a href="analytes.php?id=tph">нефтяных углеводородов в почве</a></p>  
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="media index-media">
+            <div class="media-left branch-icon">
+              <img class="media-object" src="/img/lab.jpg">
+            </div>
+            <div class="media-body">
+              <h3>Медицина</h3>
+              <p>В медицинских учреждениях и лабораториях тест-наборы для экспресс-анализа воды CHEMetrics используются для проверки санитарной обработки и контроля остаточных <a href="/analytes.php?id=detergents">моющих веществ</a>, а также для определения низкого уровня загрязнений. Тест-набор для определения <a href="/analytes.php?id=detergents">моющих веществ</a> используется для мониторинга эффективности очистки лабораторного и медицинского оборудования</p>    
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="media index-media">
+            <div class="media-left branch-icon">
+              <img class="media-object" src="/img/pulp_n_paper.jpg">
+            </div>
+            <div class="media-body">
+              <h3>Целлюлозно-бумажная промышленность</h3>
+              <p>В целлюлозно-бумажной промышленности продукция CHEMetrics применяется для экспресс-анализа котловой и охлаждающей воды, сточных вод и очищенных сточных вод. Также тест-наборы используются при отбеливании, обработке целлюлозы и содорегенерации.</p>    
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="media index-media">
+            <div class="media-left branch-icon">
+              <img class="media-object" src="/img/powerplant.jpg">
+            </div>
+            <div class="media-body">
+              <h3>Энергетика</h3>
+              <p>Тест-наборы CHEMetrics применяются для контроля отложений примесей и коррозионных элементов в воде, для мониторинга биоцидов и ингибиторов коррозии, а также для <a href="/analytes.php?id=oxygen">определения растворенного кислорода (в ppb)</a>.</p><br><br>    
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="media index-media">
+            <div class="media-left branch-icon">
+              <img class="media-object" src="/img/plant.jpg">
+            </div>
+            <div class="media-body">
+              <h3>Горнорудное дело и промышленное производство</h3>
+              <p>Мы можем оснастить лаборатории или персонал, работающий на промышленных и горнодобывающих предприятиях, как в полевых условиях, так и на производственных площадках, точными и надежными тестами CHEMetrics для определения содержания металлов и <a href="/analytes.php?id=ph">определения pH</a> в загрязненной или очищенной сточной воде.</p>  
+            </div>
+          </div>
+        </div>
       </div>
       <div class="row">
         <div class="col-md-1 col-md-offset-11">

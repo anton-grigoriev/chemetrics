@@ -9,24 +9,14 @@
 <?php require (ROOTPATH . 'inc/navbar.inc.php'); ?>
 <div class="container tools">
 		<div class="row">
-			<div class="col-md-12" id="v2k"><h1>Мультипараметрический фотометр V-2000</h1></div>
-		</div>
-		<div class="row">
-			<div class="col-md-7">
+			<div class="col-md-12" id="v2k">
+				<h1>Мультипараметрический фотометр V-2000</h1>
+			</div>
+			<div class="col-md-6">
 				<p>На сегодняшний день фотометр CHEMetrics V-2000&nbsp;&mdash; наиболее продвинутый многофункциональный портативный колориметр со светодиодным осветителем, в нем содержится более 50 запрограммированных тестов для проведения экспресс-анализов с помощью ампул Vacu-vials, по мере появления новых тестов, их можно загрузить с сайта <a href="http://www.chemetrics.com" rel="nofollow">CHEMetrics</a>. Также в памяти фотометра можно сохранить до 10 пользовательских тестов. Интерфейс CHEMetrics V-2000 прост и интуитивно понятен, при раборе с прибором оператору не требуется осуществлять пробоподготовку или контактировать с химическими веществами, что снижает вероятность ошибки и положительно влияет на безопасность.</p>
 				<p>Фотометр измеряет концентрацию, поглощение или % пропускания, хранит до 100 записей с метками даты/времени, которые можно сохранить на ПК или распечатать на принтере. 
 				<p>Вы можете приобрести тест-наборы для измерения более чем 50 параметров и самостоятельно создать лабораторию под ваши задачи. Каждый тест-набор содержит все необходимое для проведения 30 тестов. Отдельно можно приобрести аксессуары: кейсы для хранения фотометра V-2000, тест-наборы и запасные ампулы.</p>
-
-				<p><a class="back-to-top btn btn-default" role="button" href="/analytes.php">Определяемые вещества</a></p>				
-				
-				<h2>Преимущества</h2>
-				<ul>
-					<li>Более 50 запрограммированных тестов, плюс 10 пользовательских. Загрузка новых тестов с сайта <a href="http://www.chemetrics.com" rel="nofollow">CHEMetrics</a></li>
-					<li>Работает до 2500 часов от 4 батареек АА</li>
-					<li>Лёгкий, прочный, водонепроницаемый (IP67)</li>
-					<li>Вывод данных на ПК или принтер, интерфейс RS232</li>
-					<li>Гарантия 2 года</li>
-				</ul>
+				<p><a href="/analytes.php"><strong>Определяемые вещества</strong></a></p>				
 				<h2>Технические характеристики</h2>
 				<table class="table table-condensed table-hover">
 					<tr>
@@ -92,15 +82,22 @@
 					</tr>
 				</table>
 			</div>
-			<div class="col-md-5">
-				<img src="/img/v2000.jpg" class="img-responsive" alt="Мультипараметрический фотометр V-2000" vspace="10">
+			<div class="col-md-6">
+				<img src="/img/v2000.jpg" class="img-responsive tools-pic" alt="Мультипараметрический фотометр V-2000" vspace="10">
+				<ul>
+					<li>Более 50 запрограммированных тестов, плюс 10 пользовательских. Загрузка новых тестов с сайта <a href="http://www.chemetrics.com" rel="nofollow">CHEMetrics</a></li>
+					<li>Работает до 2500 часов от 4 батареек АА</li>
+					<li>Лёгкий, прочный, водонепроницаемый (IP67)</li>
+					<li>Вывод данных на ПК или принтер, интерфейс RS232</li>
+					<li>Гарантия 2 года</li>
+				</ul>
 			</div>
 		</div>
 		<div class="row">
-			<div class="col-md-12" id="sam"><h1>Монопараметрические фотометры SAM</h1></div>
-		</div>
-		<div class="row">
-			<div class="col-md-7">
+			<div class="col-md-12" id="sam">
+				<h1>Монопараметрические фотометры SAM</h1>
+			</div>
+			<div class="col-md-6">
 			<p>Монопараметрическиие фотометры SAM (Single Analyte Meter) просты и экономичны, а точность анализа не уступит более дорогим и сложным приборам. В комплект поставки входит прибор и все необходимое для выполнения 30 тестов, за исключением I-2017</p>
 			<h2>Технические характеристики</h2>
 				<table class="table table-condensed table-hover">
@@ -127,14 +124,12 @@
 				</table>
 			<h2>Определяемые вещества</h2>
 				<table class="table table-condensed table-hover">
-					<thead>
-						<tr>
-						<td>Вещество</td>
-						<td>Артикул</td>
-						<td nowrap="nowrap">Диапазон (мг/л)</td>
-						<td>Запасные<br> тест-наборы</td>
-						</tr>
-					</thead>
+					<tr>
+						<td><strong>Вещество</strong></td>
+						<td><strong>Артикул</strong></td>
+						<td nowrap="nowrap"><strong>Диапазон (мг/л)</strong></td>
+						<td><strong>Запасные<br> тест-наборы</strong></td>
+					</tr>
 					<tr>
 						<td><a href="/analytes.php?id=hydrogen">Водорода перекись</a></td><td>I-2016</td><td>0,15&mdash;6,00</td><td>K-5543</td>
 					</tr>
@@ -158,8 +153,8 @@
 					</tr>
 				</table>
 			</div>
-			<div class="col-md-5">
-			<img src="/img/sam.jpg" alt="Монопараметрический фотометр SAM" class="img-responsive">
+			<div class="col-md-5 col-md-offset-1">
+			<img src="/img/sam.jpg" alt="Монопараметрический фотометр SAM" class="img-responsive tools-pic">
 			</div>
 		</div>
 	<div class="row">

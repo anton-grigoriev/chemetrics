@@ -36,7 +36,7 @@
         <meta name="description" content="Экспресс-анализ воды Chemetrics: анализ воды визуальными и инструментальными методами">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <link rel="stylesheet" href="http://getbootstrap.com/dist/css/bootstrap.min.css">
+        <link rel="stylesheet" href="/css/bootstrap.min.css">
         <link rel="stylesheet" href="/css/bootstrap-theme.min.css">
         <link rel="stylesheet" href="/css/main.css">
 

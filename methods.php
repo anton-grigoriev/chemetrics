@@ -13,39 +13,51 @@
 	</div>
 		<div class="row">
 			<div class="col-md-12" id="chemets"><h2>Визуально-колориметрический</h2><h5>Метод CHEMets</h5></div>
-		</div>
-		<div class="row">
-			<div class="col-md-7">
+			<div class="col-md-4 steps">
 				<div class="media">
-					<img class="media-object pull-left" src="/img/chemets_step1.png" alt="шаг 1">
+					<div class="media-left">
+						<img class="media-object pull-left" src="/img/chemets_step1.png" alt="шаг 1">
+					</div>
 					<div class="media-body">
 					<h4>шаг 1</h4>
 					<p>Для того, чтобы провести анализ воды, погрузите ампулу CHEMet в образец и сломайте кончик ампулы. Ампула наполнится необходимым объемом образца, в ампуле сформируется небольшой пузырек инертного газа.</p>
 					</div>
 				</div>
+			</div>
+			<div class="col-md-4 steps">
 				<div class="media">
-					<img class="media-object pull-left" src="/img/chemets_step2.png" alt="шаг 2">
+					<div class="media-left">
+						<img class="media-object pull-left" src="/img/chemets_step2.png" alt="шаг 2">
+					</div>
 					<div class="media-body">
 					<h4>шаг 2</h4>
 					<p>Для улучшения смешивания образца с реагентом, переверните ампулу несколько раз так, чтобы пузырек передвигался от одного конца ампулы к другому.</p>
 					</div>
 				</div>
+			</div>
+			<div class="col-md-4 last-step">
 				<div class="media">
-					<img class="media-object pull-left" src="/img/chemets_step3.png" alt="шаг 3">
+					<div class="media-left">
+						<img class="media-object pull-left" src="/img/chemets_step3.png" alt="шаг 3">
+					</div>
 					<div class="media-body">
 					<h4>шаг 3</h4>
 					<p>Примерно через 2 минуты сравните оттенок образца со стандартом и получите результат.  Для анализа высоких диапазонов используется плоский компаратор. Круглый компаратор используется для анализа низких диапазонов. Ампулы сравниваются со стандартом до тех пор, пока оттенок не совпадет.</p>
 					</div>
 				</div>
-				<div class="alert alert-text">
+			</div>
+			<div class="col-md-4">
+				<div class="method-description">
 					<p>Использование ампул CHEMets максимально просто, а результаты точны. Ампулы стеклянные, конусообразные, диаметр 7 мм, длина 100 мм. Каждая ампула имеет засечку на кончике, реагент герметично запаян.</p>
 					<p><strong>В комплект входит:</strong> 30 ампул, компаратор(ы), дополнительные растворы (при необходимости), мерный стакан и инструкция.</p>
-					<p class="methodsSmaller">Самозаполняющиеся ампулы (30 шт/уп) и дополнительные жидкости можно приобрести отдельно. Большинство компараторов имеют срок годности 2 года.</p>	
+					<p>Самозаполняющиеся ампулы (30 шт/уп) и дополнительные жидкости можно приобрести отдельно. Большинство компараторов имеют срок годности 2 года.</p>	
 				</div> 
 			</div>
-			<div class="col-md-5">
+			<div class="col-md-4">
 				<img src="/img/chemets.jpg" class="img-responsive" alt="Визуально-колориметрический метод экспресс-анализа воды. Ампулы CHEMets">
-				<div class="videoWrapper">
+			</div>
+			<div class="col-md-4">
+				<div class="embed-responsive embed-responsive-16by9">
 					<iframe width="560" height="315" src="//www.youtube.com/embed/GCQ9ckIbhbA" frameborder="0" allowfullscreen></iframe>
 				</div>
 			</div>
@@ -56,22 +68,28 @@
 		</div>
 		<div class="row">
 			<div class="col-md-7">
-				<div class="media">
-					<img class="media-object pull-left" src="/img/chemets_step1.png" alt="шаг 1">
+				<div class="media media-methods">
+					<div class="media-left">
+						<img class="media-object pull-left" src="/img/chemets_step1.png" alt="шаг 1">
+					</div>
 					<div class="media-body">
 					<h4>шаг 1</h4>
 					<p>Для того, чтобы провести анализ воды, погрузите ампулу CHEMet в образец и сломайте кончик ампулы  ампула наполнится необходимым объемом образца; в ампуле сформируется небольшой пузырек инертного газа.</p>
 					</div>
 				</div>
-				<div class="media">
-					<img class="media-object pull-left" src="/img/chemets_step2.png" alt="шаг 2">
+				<div class="media media-methods">
+					<div class="media-left">
+						<img class="media-object pull-left" src="/img/chemets_step2.png" alt="шаг 2">
+					</div>
 					<div class="media-body">
 					<h4>шаг 2</h4>
 					<p>Для улучшения смешивания образца с реагентом, переверните ампулу несколько раз так, чтобы пузырек передвигался от одного конца ампулы к другому.</p>
 					</div>
 				</div>
-				<div class="media">
-					<img class="media-object pull-left" src="/img/vacu_vials_step3.png" alt="шаг 3">
+				<div class="media media-methods">
+					<div class="media-left">
+						<img class="media-object pull-left" src="/img/vacu_vials_step3.png" alt="шаг 3">
+					</div>
 					<div class="media-body">
 					<h4>шаг 3</h4>
 					<p>Поместите ампулу в кювету прибора и установите длину волны для оптимального светопоглощения. Если вы используете прибор, измеряющий светопоглощение, то значение светопоглощения можно перевести в единицы концентрации с помощью прилагаемого уравнения калибровки.</p>
@@ -95,29 +113,37 @@
 		</div>
 		<div class="row">
 			<div class="col-md-7">
-				<div class="media">
-					<img class="media-object pull-left" src="/img/vacuettes_step1.png" alt="шаг 1">
+				<div class="media media-methods">
+					<div class="media-left">
+						<img class="media-object pull-left" src="/img/vacuettes_step1.png" alt="шаг 1">
+					</div>
 					<div class="media-body">
 					<h4>шаг 1</h4>
 					<p>Держите ампулу в горизонтальном положении до тех пор, пока капилляр наконечника не соприкоснется с образцом </p>
 					</div>
 				</div>
-				<div class="media">
-					<img class="media-object pull-left" src="/img/vacuettes_step2.png" alt="шаг 2">
+				<div class="media media-methods">
+					<div class="media-left">
+						<img class="media-object pull-left" src="/img/vacuettes_step2.png" alt="шаг 2">
+					</div>
 					<div class="media-body">
 					<h4>шаг 2</h4>
 					<p>После заполнения капилляра погрузите его в раствор (обычно дистиллированная вода), сломайте кончик ампулы </p>
 					</div>
 				</div>
-				<div class="media">
-					<img class="media-object pull-left" src="/img/vacuettes_step3.png" alt="шаг 3">
+				<div class="media media-methods">
+					<div class="media-left">
+						<img class="media-object pull-left" src="/img/vacuettes_step3.png" alt="шаг 3">
+					</div>
 					<div class="media-body">
 					<h4>шаг 3</h4>
 					<p>Образец и дистиллированная вода заполнят ампулу, где они смешаются с реагентом</p>
 					</div>
 				</div>
-				<div class="media">
-					<img class="media-object pull-left" src="/img/vacuettes_step4.png" alt="шаг 4">
+				<div class="media media-methods">
+					<div class="media-left">
+						<img class="media-object pull-left" src="/img/vacuettes_step4.png" alt="шаг 4">
+					</div>
 					<div class="media-body">
 					<h4>шаг 3</h4>
 					<p>Полученный образец сравнивайте с плоским или круглым компаратором до тех пор, пока оттенок не совпадет</p>
@@ -142,22 +168,28 @@
 		</div>
 		<div class="row">
 			<div class="col-md-7">
-				<div class="media">
-					<img class="media-object pull-left" src="/img/titrets_step1.png" alt="шаг 1">
+				<div class="media media-methods">
+					<div class="media-left">
+						<img class="media-object pull-left" src="/img/titrets_step1.png" alt="шаг 1">
+					</div>
 					<div class="media-body">
 					<h4>шаг 1</h4>
 					<p>После того, как кончик ампулы был сломан, образец начинает поступать в ампулу маленькими дозами, (с помощью минититратора Titrettor, который контролирует объем образца)</p>
 					</div>
 				</div>
-				<div class="media">
-					<img class="media-object pull-left" src="/img/titrets_step2.png" alt="шаг 2">
+				<div class="media media-methods">
+					<div class="media-left">
+						<img class="media-object pull-left" src="/img/titrets_step2.png" alt="шаг 2">
+					</div>
 					<div class="media-body">
 					<h4>шаг 2</h4>
 					<p>До тех пор, пока изменение цвета не укажет на то, что паритентная точка достигнута </p>
 					</div>
 				</div>
-				<div class="media">
-					<img class="media-object pull-left" src="/img/titrets_step3.png" alt="шаг 3">
+				<div class="media media-methods">
+					<div class="media-left">
+						<img class="media-object pull-left" src="/img/titrets_step3.png" alt="шаг 3">
+					</div>
 					<div class="media-body">
 					<h4>шаг 3</h4>
 					<p>Титрование остановится в этой точке. Расположите ампулу вертикально. Уровень жидкости совпадет со шкалой, нанесенной на ампулу </p>

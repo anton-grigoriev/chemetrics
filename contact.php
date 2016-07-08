@@ -77,14 +77,14 @@
         </div>
     </div>
 </div>
-    <div class="container contact">       
-        <div class="row feedback">
-            <div class="col-md-12">
-                <h2>Отправить запрос</h2>
-            </div>
-        </div>
+    <div class="container contact">
         <div class="row feedback feedbackForm">
             <div class="col-md-8">
+                <h2>Отправить запрос</h2>
+                <div class="feedback-wrapper">
+                    <p>Отправьте нам сообщение с помощью этой формы, и мы свяжемся с вами в ближайшее время</p>
+                    <p><strong>Внимание!</strong> Пожалуйста, заполните все поля</p>
+                </div>
                 <form method="post" name="contact_form" id="contactform" action="/contact-form-handler.php">
                   <div class="form-group">
                     <label for="inputName">Ваше имя: </label><div class="error" id="contactform_name_errorloc"></div>
@@ -129,12 +129,6 @@
                     frmvalidator.addValidation("email","req","Пожалуйста, укажите Ваш e-mail"); 
                     frmvalidator.addValidation("email","email","Пожалуйста, введите корректный e-mail"); 
                 </script>
-            </div>
-            <div class="col-md-4">
-                <p>Отправьте нам сообщение с помощью этой формы, и мы свяжемся с вами в ближайшее время</p>
-                <div class="alert alert-info">
-                    <p><strong>Внимание!</strong><br>Пожалуйста, заполните все поля</p>
-                </div>                
             </div>
         </div>    
 <div class="row">

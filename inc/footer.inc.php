@@ -1,14 +1,16 @@
+      </div> <!-- /container -->
       <footer class="footer">
-        <hr>
-        <div class="row">
-          <div class="col-md-4">
-            <h3>Компания</h3>
-            <a href="http://labdepot.ru"><img src="/img/labdepot-logo-footer.png" class="footerLogo"></a><br>
-            <a href="https://www.facebook.com/LabDepotRu"><img src="/img/facebook-icon.png" width="25" height="25" vspace="10" alt="Facebook"></a>
-            <a href="https://twitter.com/lab_depot"><img src="/img/twitter-icon.png" width="25" height="25" hspace="10" alt="Twitter"></a>
-            <a href="http://www.youtube.com/user/LabdepotLtd"><img src="/img/youtube-icon.png" width="25" height="25" alt="Youtube"></a>
-          </div>
-          <div class="col-md-5">
+        <div class="container">
+          <hr>
+          <div class="row">
+            <div class="col-md-4">
+              <h3>Компания</h3>
+              <a href="http://labdepot.ru"><img src="/img/labdepot-logo-footer.png" class="footerLogo"></a><br>
+              <a href="https://www.facebook.com/LabDepotRu"><img src="/img/facebook-icon.png" width="25" height="25" vspace="10" alt="Facebook"></a>
+              <a href="https://twitter.com/lab_depot"><img src="/img/twitter-icon.png" width="25" height="25" hspace="10" alt="Twitter"></a>
+              <a href="http://www.youtube.com/user/LabdepotLtd"><img src="/img/youtube-icon.png" width="25" height="25" alt="Youtube"></a>
+            </div>
+            <div class="col-md-5">
               <h3>Наши проекты:</h3>
               <ul>
                   <li><a href="http://wabashpress.ru">Гидравлические прессы</a></li>
@@ -16,19 +18,19 @@
                   <li><a href="http://centorrvacuum.ru">Вакуумные печи</a></li>
                   <li><a href="http://brugger.ru">Испытания полимерных пленок</a></li>
               </ul>
-          </div>
-          <div class="col-md-3" itemscope itemtype="http://data-vocabulary.org/Organization">
+            </div>
+            <div class="col-md-3" itemscope itemtype="http://data-vocabulary.org/Organization">
               <h3>Контакты:</h3>
               <adress>
-                  <span itemprop="name"><strong>ООО &laquo;ЛабДепо&raquo;</strong></span> <br>
-                  <span itemprop="street-address">Санкт-Петербург, Торфяная дор., д. 7Ф</span><br>
-                  Тел.: <span itemprop="tel">(812) 320-60-48 (многоканальный)</span><br>
-                  e-mail: <a href="mailto:info@labdepot.ru">info@labdepot.ru</a>
+                <span itemprop="name"><strong>ООО &laquo;ЛабДепо&raquo;</strong></span> <br>
+                <span itemprop="street-address">Санкт-Петербург, Торфяная дор., д. 7Ф</span><br>
+                Тел.: <span itemprop="tel">(812) 320-60-48 (многоканальный)</span><br>
+                e-mail: <a href="mailto:info@labdepot.ru">info@labdepot.ru</a>
               </adress>
+            </div>
           </div>
         </div>
-    </footer>
-  </div> <!-- /container -->
+      </footer>
 
 
   <!-- Start Open Web Analytics Tracker -->

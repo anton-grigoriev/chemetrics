@@ -1,3 +1,5 @@
+@import 'https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900&subset=cyrillic';
+
 /* TEMPORARY */
 
 
@@ -111,7 +113,7 @@
    ========================================================================== */
 
 body {	
-		font-family: 'Roboto', sans-serif;
+		font-family: "Roboto script=all rev=13", sans-serif;
         padding-bottom: 20px;
         }
 
@@ -197,13 +199,93 @@ hr {margin: 5px 0;}
 	background-color:white;
 	}
 
+/* Index page */
 
+.index h1 {
+	font-size: 48px;
+	font-weight: 300;
+}
+
+.index h2 {
+	font-size: 24px;
+	font-weight: 300;
+	color: #00688B;
+	margin-bottom: 10px;
+}
+
+.index h3 {
+    font-size: 18px;
+    font-weight: 700;
+    margin: 5px 0;
+    color: #888;
+    padding-left: 15px;
+}
+
+.sub-header {
+	font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+.index p, .index ul {
+	font-size: 14px;
+	line-height: 1.5em;
+	}
+
+.index-header {
+	margin: 40px 0 35px 0;
+}
+
+.index-subheader {
+	margin-top: 0;
+}
+
+.index-media {
+	margin-bottom: 30px;
+}
+
+.index-media p {
+	padding: 0 15px;
+}
+
+.pros {
+	padding-bottom:30px;
+	border-bottom:1px solid #eee;
+	}
+
+.branch-icon {
+	padding-right: 20px;
+}
+
+.branch-icon > img {
+	width: 100px;
+	padding-top: 6px;
+}
+
+.ref-logo {
+	padding: 25px;
+}
 
 /* METHODS */
+
+.steps {
+	border-right: 1px solid #eee;
+}
+
+.last-step {
+	margin-bottom: 30px;
+}
+
+.steps, 
+.last-step {
+	min-height: 255px;
+}
 
 .methods h4 {
 	font-size: 14px;
 	text-transform: uppercase;
+	background-color: #b3e5fc;
+	padding: 5px;
 }
 
 .methods h5 {
@@ -214,21 +296,16 @@ hr {margin: 5px 0;}
 	margin-bottom: 20px;
 }
 
-.methods p { 
-	font-size: 12px;
-}
-
 .methods hr {
-	margin: 0;
+	margin: 40px 0 10px 0;
 }
 
-.media {
-	border: 1px solid #D6D6D6;
-	border-radius: 5px 5px 5px 5px;
-		-moz-border-radius: 5px 5px 5px 5px;
-		-webkit-border-radius: 5px 5px 5px 5px;
-	padding-right: 5px;
+.method-description {
+	background-color: #e1f5fe;
+	padding: 10px 15px 10px 15px;
 }
+
+
 
 .alert-text {
 	background: rgba(255,255,255,1);
@@ -244,39 +321,50 @@ hr {margin: 5px 0;}
 	margin:20px  0;
 }
 
-.videoWrapper {
-	position: relative;
-	padding-bottom: 56.25%; /* 16:9 */
-	padding-top: 25px;
-	height: 0;
-	margin-top: 30px;
-}
-.videoWrapper iframe {
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
-}
-
-
 /*TOOLS*/
 
 .tools h1 {
 	margin-bottom: 25px;
 }
 
+@media (max-width: 768px) {
+	.tools h1 {
+		font-size: 28px;
+	}
+	
+	.tools h2 {
+		font-size: 21px;
+	}
+}
+
 .tools h2 {
 	margin-bottom: 15px;
+	border-top: 1px solid #ccc;
+	padding-top: 15px;
 }
 
 .tools h3 {
 	font-size: 18px;
 }
 
-.tools ul li,
-.nicer-list li {
-	margin-bottom: 10px;
+.tools p {
+	line-height: 1.6em;
+    padding: 5px 15px 5px 0;
+}
+
+.tools p a {
+	font-size: 16px;
+	text-transform: uppercase;
+}
+
+.tools-pic {
+	padding: 0 20px 20px 20px;
+}
+
+.tools ul li {
+	margin-bottom: 20px;
+    padding-left: 15px;
+    margin-left: 20px;
 }
 
 .tools ul,
@@ -284,7 +372,10 @@ hr {margin: 5px 0;}
 	list-style-image: url(/img/list-image.png);
 }
 
-.tools table {font-size: 12px;}
+.tools table {
+	font-size: 12px;
+	margin-bottom: 20px;
+}
 
 .tools table thead {
 	font-size: 14px;
@@ -381,8 +472,9 @@ hr {margin: 5px 0;}
 
 .contact h3 {
 	font-size: 16px;
-	font-weight: 500;
+	font-weight: 700;
 	margin-bottom: 10px;
+	color: #777;
 }
 
 .contact p {
@@ -393,17 +485,26 @@ hr {margin: 5px 0;}
 .jumboContact {
 	background-color: #FFF0F5;
 	padding: 30px 0;
-	margin: 15px 0;
+	margin: 35px 0;
 }
 
 /*feedback*/
 
-.feedback {
-	margin-top: 15px;
+.feedback-wrapper {
+	margin: 25px 0;
+    background-color: #42a5f5;
+    color: #fff;
+    padding: 20px
+}
+
+.feedback-wrapper p {
+	font-size: 16px;
+	margin: 0;
 }
 
 .feedback h2 {
 	color: #d14905;
+	margin-top:0;
 }
 
 
@@ -415,36 +516,6 @@ hr {margin: 5px 0;}
 
 
 /*ТИПОГРАФИКА*/
-
-
-
-.index h1 {
-	font-size: 48px;
-	font-weight: 300;
-}
-
-.index h2 {
-	font-size: 24px;
-	font-weight: 300;
-	color: #00688B;
-	margin-bottom: 10px;
-}
-
-.index h3 {
-	font-size: 14px;
-	font-weight: 300;
-}
-
-.sub-header {
-	font-size: 18px;
-    font-weight: 500;
-    margin-bottom: 20px;
-}
-
-.index p, .index ul {
-	font-size: 14px;
-	line-height: 1.5em;
-	}
 
 .nicer-list  {
 	list-style-image: url(/img/list-image.png);	
