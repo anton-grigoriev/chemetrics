@@ -248,7 +248,8 @@ hr {margin: 5px 0;}
 	padding: 0 15px;
 }
 
-.pros {
+.pros, 
+.reference {
 	padding-bottom:30px;
 	border-bottom:1px solid #eee;
 	}
@@ -263,22 +264,19 @@ hr {margin: 5px 0;}
 }
 
 .ref-logo {
-	padding: 25px;
+	padding: 10px;
 }
 
 /* METHODS */
 
-.steps {
+.steps > div {
 	border-right: 1px solid #eee;
+	margin-top:30px;
+	min-height: 245px;
 }
 
-.last-step {
-	margin-bottom: 30px;
-}
-
-.steps, 
-.last-step {
-	min-height: 255px;
+.steps :last-child {
+	border-right: 0;
 }
 
 .methods h4 {
@@ -290,7 +288,7 @@ hr {margin: 5px 0;}
 
 .methods h5 {
 	font-size: 14px;
-	font-weight: 500;
+	font-weight: 700;
 	color: #CD9B9B;
 	margin-top: 0;
 	margin-bottom: 20px;
@@ -298,13 +296,13 @@ hr {margin: 5px 0;}
 
 .methods hr {
 	margin: 40px 0 10px 0;
+	border-top-color: #bdbdbd;
 }
 
 .method-description {
-	background-color: #e1f5fe;
-	padding: 10px 15px 10px 15px;
+	padding: 15px 0;
+    border-top: 1px solid #eee;
 }
-
 
 
 .alert-text {
@@ -415,21 +413,23 @@ hr {margin: 5px 0;}
 }
 
 .panel {
-	border:1px solid #ddd;
+	border:0;
 }
 
 .panel-instrumental > .panel-heading {
 		background-color: #ffd520;
-		background: rgba(255,237,166,1);
-			background: -moz-linear-gradient(top, rgba(255,237,166,1) 0%, rgba(255,237,166,1) 36%, rgba(255,214,32,1) 76%, rgba(255,214,32,1) 100%);
+		background: rgba(255,238,88,1);
+			/*background: -moz-linear-gradient(top, rgba(255,237,166,1) 0%, rgba(255,237,166,1) 36%, rgba(255,214,32,1) 76%, rgba(255,214,32,1) 100%);
 			background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(255,237,166,1)), color-stop(36%, rgba(255,237,166,1)), color-stop(76%, rgba(255,214,32,1)), color-stop(100%, rgba(255,214,32,1)));
 			background: -webkit-linear-gradient(top, rgba(255,237,166,1) 0%, rgba(255,237,166,1) 36%, rgba(255,214,32,1) 76%, rgba(255,214,32,1) 100%);
 			background: -o-linear-gradient(top, rgba(255,237,166,1) 0%, rgba(255,237,166,1) 36%, rgba(255,214,32,1) 76%, rgba(255,214,32,1) 100%);
 			background: -ms-linear-gradient(top, rgba(255,237,166,1) 0%, rgba(255,237,166,1) 36%, rgba(255,214,32,1) 76%, rgba(255,214,32,1) 100%);
 			background-image: linear-gradient(to bottom, rgba(255,237,166,1) 0%, rgba(255,237,166,1) 36%, rgba(255,214,32,1) 76%, rgba(255,214,32,1) 100%) !important;
-			filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffeda6', endColorstr='#ffd620', GradientType=0 );
+			filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffeda6', endColorstr='#ffd620', GradientType=0 );*/
 		border-bottom: 0;
-		
+		border-bottom: 0;
+		border-radius: 0;
+		box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1);
 	}
 
 .panel-instrumental > .panel-heading > a, .panel-visual > .panel-heading > a {
@@ -438,15 +438,17 @@ hr {margin: 5px 0;}
 }
 
 .panel-visual > .panel-heading {
-		background: rgba(250,160,132,1);
-		background: -moz-linear-gradient(top, rgba(250,160,132,1) 0%, rgba(245,130,42,1) 100%);
+		background: rgba(255,167,38,1);
+		/*background: -moz-linear-gradient(top, rgba(250,160,132,1) 0%, rgba(245,130,42,1) 100%);
 		background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(250,160,132,1)), color-stop(100%, rgba(245,130,42,1)));
 		background: -webkit-linear-gradient(top, rgba(250,160,132,1) 0%, rgba(245,130,42,1) 100%);
 		background: -o-linear-gradient(top, rgba(250,160,132,1) 0%, rgba(245,130,42,1) 100%);
 		background: -ms-linear-gradient(top, rgba(250,160,132,1) 0%, rgba(245,130,42,1) 100%);
 		background: linear-gradient(to bottom, rgba(250,160,132,1) 0%, rgba(245,130,42,1) 100%);
-		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#faa084', endColorstr='#f5822a', GradientType=0 );
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#faa084', endColorstr='#f5822a', GradientType=0 );*/
 		border-bottom: 0;
+		border-radius: 0;
+		box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1);
 		}
 
 .form-control {
@@ -494,7 +496,8 @@ hr {margin: 5px 0;}
 	margin: 25px 0;
     background-color: #42a5f5;
     color: #fff;
-    padding: 20px
+    padding: 20px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
 }
 
 .feedback-wrapper p {

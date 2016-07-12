@@ -111,11 +111,11 @@
       <div class="row reference">
         <div class="col-md-12"><h2>Клиенты CHEMetrics в России</h2></div>
         <div class="col-md-2"><img src="/img/nestle.png" alt="Nestle" class="img-responsive ref-logo"></div>
-        <div class="col-md-2"><img src="/img/tetrapack.png" alt="Nestle" class="img-responsive ref-logo"></div>
-        <div class="col-md-2"><img src="/img/total.png" alt="Nestle" class="img-responsive ref-logo"></div>
-        <div class="col-md-2"><img src="/img/wbd.png" alt="Nestle" class="img-responsive ref-logo"></div>
-        <div class="col-md-2"><img src="/img/nestle.png" alt="Nestle" class="img-responsive ref-logo"></div>
-        <div class="col-md-2"><img src="/img/nestle.png" alt="Nestle" class="img-responsive ref-logo"></div>
+        <div class="col-md-2"><img src="/img/champion.png" alt="Maste Chemicals Nalco Champion" class="img-responsive ref-logo"></div>
+        <div class="col-md-2"><img src="/img/total.png" alt="Total" class="img-responsive ref-logo"></div>
+        <div class="col-md-2"><img src="/img/tatneft.png" alt="Татнефть" class="img-responsive ref-logo"></div>
+        <div class="col-md-2"><img src="/img/tetrapack.png" alt="Tetrapak" class="img-responsive ref-logo"></div>
+        <div class="col-md-2"><img src="/img/baker-hughes.png" alt="Baker-Hughes" class="img-responsive ref-logo"></div>
       </div>
       <div class="row">
         <div class="col-md-12">
